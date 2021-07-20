@@ -1,0 +1,22 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "Exercise at Microverse to learn more about Testing using JS, TDD and Jest",
+  "main": "stringLength.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurborgesdev/testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthurborgesdev/testing-practice/issues"
+  },
+  "homepage": "https://github.com/arthurborgesdev/testing-practice#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
